@@ -2,6 +2,8 @@
 
 In this week we were working with Spark. We went through the installation, explored the batch processing, PySpark, RDD and DataFrames, SQL, transformations and actions.
 
+More about this week you can read in my free [newsletter](https://datadamejourneys.substack.com/p/data-engineering-zoomcamp-week-5).
+
 ## Installation
 
 Here's a step-by-step guide to installing Spark locally on your macOS system:
