@@ -43,6 +43,7 @@ This will launch the Spark shell, and you should see the Spark logo and a Scala 
 To run PySpark, we first need to add it to PYTHONPATH:
 
 export PYTHONPATH="${SPARK_HOME}/python/:$PYTHONPATH"
+
 export PYTHONPATH="${SPARK_HOME}/python/lib/py4j-0.10.9.7-src.zip pyspark.zip"
 
 
